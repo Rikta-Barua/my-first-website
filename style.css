@@ -6,3 +6,16 @@
     padding:10px;
     margin:10px;
 }
+.heading{
+    color:cadetblue;
+    text-align: center;
+    font-family: Verdana;
+}
+.test{
+    background-color: aquamarine;
+    color:coral;
+    text-align: justify;
+    font-family: tahoma;
+    margin:20px;
+    padding:15px;
+}
