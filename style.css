@@ -19,3 +19,9 @@
     margin:20px;
     padding:15px;
 }
+ul li{
+    font-size: 1.2em;
+    font-weight: bold;
+    font-family: tahoma;
+    color:darkgreen;
+}
